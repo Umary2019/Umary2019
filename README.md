@@ -9,7 +9,7 @@
  </p>
 <p align="center">
 <a href="https://github.com/Umary2019">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Software+Engineer+%7C+Devops+Engineer+%7C+Blockchain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Software+Engineer+%7C+Devops+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 # 📊 GitHub Stats:
